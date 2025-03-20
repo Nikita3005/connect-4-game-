@@ -11,11 +11,3 @@ A fun and interactive **Connect 4** game built with **Python & Pygame**! 🏆
 ✅ Light blue & white theme for a fresh look  
 
 ---
-
-## 🛠️ Installation  
-Follow these steps to set up the game on your system:  
-
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/your-username/connect4-game.git
-   cd connect4-game
